@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/wisata_candi_abyu.iml" filepath="$PROJECT_DIR$/wisata_candi_abyu.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/wisata_candi_abyu_android.iml" filepath="$PROJECT_DIR$/android/wisata_candi_abyu_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wisata_candi_abiyyu.iml" filepath="$PROJECT_DIR$/wisata_candi_abiyyu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/wisata_candi_abiyyu_android.iml" filepath="$PROJECT_DIR$/android/wisata_candi_abiyyu_android.iml" />
     </modules>
   </component>
 </project>
